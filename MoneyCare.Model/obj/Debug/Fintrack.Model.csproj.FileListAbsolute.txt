@@ -1,0 +1,7 @@
+C:\Projects\FinanceTracker\Fintrack.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\FinanceTracker\Fintrack.Model\bin\Debug\Fintrack.Model.dll
+C:\Projects\FinanceTracker\Fintrack.Model\bin\Debug\Fintrack.Model.pdb
+C:\Projects\FinanceTracker\Fintrack.Model\obj\Debug\Fintrack.Model.dll
+C:\Projects\FinanceTracker\Fintrack.Model\obj\Debug\Fintrack.Model.pdb
+C:\Projects\FinanceTracker\Fintrack.Model\bin\Debug\EntityMap.dll
+C:\Projects\FinanceTracker\Fintrack.Model\bin\Debug\EntityMap.pdb
