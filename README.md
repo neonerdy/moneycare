@@ -1,5 +1,8 @@
 # MONEYCARE
 
+![Alt text](https://github.com/neonerdy/moneycare/blob/master/moneycare-small.jpg "MoneyCare")
+
+
 Software Personal Finance Manager ini memiliki fitur sebagai berikut :
 
 ## PENDATAAN REKENING
